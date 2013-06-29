@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LoveMatch</string>
+   
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_result">Result</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="yourname">Your FirstName</string>
+    <string name="hername">His/Her FirstName</string>
+    <string name="go">Calculate</string>
+    <string name="msg">Please enter the 2 Firstnames</string>
+    <string name="empty">Please fill the empty fields</string>
+    <string name="obs1">You do not like the scenes of households? Avoid your half!</string>
+	<string name="obs2">If you returned late last night, do you forgive!</string>
+	<string name="obs3">Think: you have not forgotten her birthday, party, or something else?</string>
+	<string name="obs4">The crazy love  is not for today, retry your luck tomorrow.</string>
+	<string name="obs5">Cloudless day, but without much sun either. Like it? Give her/his flowers</string>
+	<string name="obs6">51? Like so ... The evenings too watered, you like it? Not your Sweetheart apparently, while two aspirins and go to bed!</string>
+	<string name="obs7">Beautiful day on your marriage, but do not count on a great love from your love declaration.</string>
+	<string name="obs8">69? Well ... Want a ole ole hug? This is the time you spend lavishly.</string>
+	<string name="obs9">A board to complete this beautiful day as you started: romantic dinner and walk in love.</string>
+	<string name="obs10">You love passionately? He (or she) also, so if you have not already done so, it is a day or never admit it.</string>
+	<string name="obs11">If you have not yet applied (e) in marriage, take a deep breath and throw yourself into the water, it\'s time.</string>
+
+</resources>

@@ -1,0 +1,87 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center" >
+    
+<LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center" 
+    android:layout_marginBottom="40dip">
+    
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       	android:textSize="20dip"
+       	android:gravity="center"
+        android:text="@string/msg"
+         />
+    </LinearLayout>
+    
+<LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    android:gravity="center">
+    
+    <LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="110dip"
+  		android:layout_height="wrap_content"
+        android:text="@string/yourname"
+         />
+    
+   
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="150dip"
+        android:layout_height="wrap_content"
+       />
+
+  </LinearLayout>
+
+<LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginTop="20dip" >
+   
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="110dip"
+     	android:layout_height="wrap_content"
+        android:text="@string/hername" />
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="150dip"
+        android:layout_height="wrap_content"
+       />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       	android:layout_marginLeft="20dip"
+        android:text="@string/go" />
+    </LinearLayout>
+   
+ <LinearLayout
+        android:id="@+id/adViewLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="180dp"/>
+
+</LinearLayout>
+

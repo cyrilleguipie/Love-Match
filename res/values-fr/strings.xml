@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LoveMatch</string>
+   
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_result">Résultat</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="yourname">Ton Prénom</string>
+    <string name="hername">Son Prénom</string>
+    <string name="go">Calculer</string>
+    <string name="msg">Veuillez entrez les 2 prénoms</string>
+    <string name="empty">Veuillez renseigner le(s) champ(s) vide(s)</string>
+    <string name="obs1">Vous n\'aimez pas les scènes de ménages ?? Evitez votre moitié !!!</string>
+	<string name="obs2">Si vous êtes rentré(e) tard hier soir, faites-vous pardonner !</string>
+	<string name="obs3">Réfléchissez bien : n\'avez vous pas oublié son anniversaire, sa fête, ou autre chose ?</string>
+	<string name="obs4">L\'amour fou, c\'est pas pour aujourd\'hui, retentez votre chance demain.</string>
+	<string name="obs5">Journée sans nuage, mais sans grand soleil non plus. Vous l\'aimez ? Offrez lui des fleurs</string>
+	<string name="obs6">51 ? Tiens donc... Les soirées trop arrosées, vous aimez ça ? Pas votre dulciné(e) apparemment, alors 2 aspirines et au lit !</string>
+	<string name="obs7">Belle journée sur votre couple, mais ne comptez pas sur une grande déclaration d\'amour de la part de votre amour.</string>
+	<string name="obs8">69 ? Et bien... Envie d\'un calin olé olé? C\'est le moment de vous dépenser sans compter.</string>
+	<string name="obs9">Un conseil pour terminer cette belle journée comme vous l\'avez commencée : dîner romantique et ballade en amoureux.</string>
+	<string name="obs10">Vous l\'aimez passionnément ? Lui (ou elle) aussi, alors si vous ne l\'avez pas encore fait, c\'est le jour ou jamais de lui avouer.</string>
+	<string name="obs11">Si vous ne l\'avez pas encore demandé(e) en mariage, respirez profondément et jetez-vous à l\'eau, c\'est le moment.</string>
+
+</resources>

@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Result"
+    android:gravity="center"
+    android:background="#ffffff" >
+
+    <TextView
+        android:id="@+id/res"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dip"
+        android:gravity="center"
+        android:textColor="#0b0974"
+         />
+    <TextView
+        android:id="@+id/score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="35dip"
+        android:textColor="#ea0037"
+        android:gravity="center"
+         />
+    <TextView
+        android:id="@+id/obs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dip"
+        android:textColor="#000000"
+        android:gravity="center"
+        
+         />
+
+
+</LinearLayout>
